@@ -88,10 +88,12 @@ width: 200px;
 .never{
 position:relative;
 left:400px;
+top:-950px;
 }
 .ever{
 position:relative;
 left:400px;
+top:-950px;
 }
 .uncontrol{
   position:relative;
@@ -238,12 +240,12 @@ top:-560px;
 .always{
   position:relative;
   left:600px;
-
+  top:-950px;
 }
 .some{
   position:relative;
   left:600px;
-
+  top:-950px;
 }
 .sium{
   font-size: 20px;
@@ -259,7 +261,7 @@ top:-560px;
   font-size: 20px;
 }
 .unus{
-  position:relative;
+  position:relative;  
   left:0px;
 }
 
@@ -301,6 +303,10 @@ top:-560px;
   font-size: 15px;
 }
 
+.dance{
+  position:relative;
+  top:-1000px;
+}
 html,body{
   width:100%;
   height:100%;
